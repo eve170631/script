@@ -1,6 +1,6 @@
 此目录为方便ZhiYi-N修改快速找到脚本导航使用，所有脚本收录自互联网，都已署名作者，所有修改均为ZhiYi-N自用。
 
-action目前包括：
+action 目 前 包 括：
 lxk0301京东签到系列：
 1.  京东水果([jd_fruit.js](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js))
 2.  东东萌宠([jd_pet.js](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js))
